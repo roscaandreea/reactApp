@@ -6,7 +6,6 @@
    > 2. The application also displays other values besides temperature such as: humidity, pressure,s.a
    > 3. Uses the **Modern Javascript** along with **React hooks and conditonals**.
    > 4. At the style level, the application uses only pure css
-   > 5. Work in progress....
      
  ## Prerequisites 
    ### Install Node JS
